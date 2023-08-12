@@ -2,7 +2,7 @@
 function Home() {
   
   return (
-    <h1>Lista de Presença</h1>
+    <h1>Lista de Presença teste</h1>
   )
 }
 
