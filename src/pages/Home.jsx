@@ -2,7 +2,11 @@
 function Home() {
   
   return (
-    <h1>Lista de Presença</h1>
+    <div>
+      <p>Lista 2</p>
+      <button>Lista 3</button>
+    </div>
+    
   )
 }
 
